@@ -1,4 +1,4 @@
-🎬 Movie Recommendation Website
+---- 🎬 MOVIE RECOMMENDATION WEBSITE -----
 
 The Movie Recommendation Website is a web-based application that recommends movies to users based on their preferences. The system uses machine learning techniques and natural language processing to analyze movie data and suggest similar movies. By entering the name of a movie, users can quickly discover other movies that share similar features such as genre, cast, or keywords. This project demonstrates how machine learning models can be integrated with a web application to build an intelligent recommendation platform.
 
